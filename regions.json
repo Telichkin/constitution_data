@@ -1,0 +1,350 @@
+[
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000001&tvd=100100163596970&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163596970",
+    "name": "Республика Адыгея (Адыгея)"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000002&tvd=100100163596971&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163596971",
+    "name": "Республика Алтай"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000003&tvd=100100163598012&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598012",
+    "name": "Республика Башкортостан"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000004&tvd=100100163598013&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598013",
+    "name": "Республика Бурятия"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000005&tvd=100100163598014&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598014",
+    "name": "Республика Дагестан"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000006&tvd=100100163598015&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598015",
+    "name": "Республика Ингушетия"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000007&tvd=100100163598016&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598016",
+    "name": "Кабардино-Балкарская Республика"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000008&tvd=100100163598017&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598017",
+    "name": "Республика Калмыкия"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000009&tvd=100100163598018&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598018",
+    "name": "Карачаево-Черкесская Республика"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000010&tvd=100100163598019&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598019",
+    "name": "Республика Карелия"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000011&tvd=100100163598020&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598020",
+    "name": "Республика Коми"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000084&tvd=100100163598093&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598093",
+    "name": "Республика Крым"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000012&tvd=100100163598021&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598021",
+    "name": "Республика Марий Эл"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000013&tvd=100100163598022&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598022",
+    "name": "Республика Мордовия"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000014&tvd=100100163598023&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598023",
+    "name": "Республика Саха (Якутия)"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000015&tvd=100100163598024&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598024",
+    "name": "Республика Северная Осетия - Алания"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000016&tvd=100100163598025&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598025",
+    "name": "Республика Татарстан (Татарстан)"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000017&tvd=100100163598026&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598026",
+    "name": "Республика Тыва"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000018&tvd=100100163598027&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598027",
+    "name": "Удмуртская Республика"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000019&tvd=100100163598028&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598028",
+    "name": "Республика Хакасия"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000020&tvd=100100163598029&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598029",
+    "name": "Чеченская Республика"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000021&tvd=100100163598030&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598030",
+    "name": "Чувашская Республика - Чувашия"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000022&tvd=100100163598031&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598031",
+    "name": "Алтайский край"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000083&tvd=100100163598092&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598092",
+    "name": "Забайкальский край"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000082&tvd=100100163598091&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598091",
+    "name": "Камчатский край"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000023&tvd=100100163598032&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598032",
+    "name": "Краснодарский край"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000024&tvd=100100163598033&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598033",
+    "name": "Красноярский край"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000081&tvd=100100163598090&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598090",
+    "name": "Пермский край"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000025&tvd=100100163598034&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598034",
+    "name": "Приморский край"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000026&tvd=100100163598035&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598035",
+    "name": "Ставропольский край"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000027&tvd=100100163598036&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598036",
+    "name": "Хабаровский край"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000028&tvd=100100163598037&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598037",
+    "name": "Амурская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000029&tvd=100100163598038&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598038",
+    "name": "Архангельская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000030&tvd=100100163598039&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598039",
+    "name": "Астраханская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000031&tvd=100100163598040&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598040",
+    "name": "Белгородская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000032&tvd=100100163598041&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598041",
+    "name": "Брянская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000033&tvd=100100163598042&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598042",
+    "name": "Владимирская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000034&tvd=100100163598043&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598043",
+    "name": "Волгоградская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000035&tvd=100100163598044&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598044",
+    "name": "Вологодская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000036&tvd=100100163598045&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598045",
+    "name": "Воронежская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000037&tvd=100100163598046&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598046",
+    "name": "Ивановская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000038&tvd=100100163598047&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598047",
+    "name": "Иркутская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000039&tvd=100100163598048&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598048",
+    "name": "Калининградская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000040&tvd=100100163598049&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598049",
+    "name": "Калужская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000041&tvd=100100163598050&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598050",
+    "name": "Кемеровская область - Кузбасс"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000042&tvd=100100163598051&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598051",
+    "name": "Кировская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000043&tvd=100100163598052&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598052",
+    "name": "Костромская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000044&tvd=100100163598053&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598053",
+    "name": "Курганская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000045&tvd=100100163598054&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598054",
+    "name": "Курская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000046&tvd=100100163598055&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598055",
+    "name": "Ленинградская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000047&tvd=100100163598056&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598056",
+    "name": "Липецкая область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000048&tvd=100100163598057&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598057",
+    "name": "Магаданская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000049&tvd=100100163598058&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598058",
+    "name": "Московская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000050&tvd=100100163598059&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598059",
+    "name": "Мурманская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000051&tvd=100100163598060&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598060",
+    "name": "Нижегородская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000052&tvd=100100163598061&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598061",
+    "name": "Новгородская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000053&tvd=100100163598062&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598062",
+    "name": "Новосибирская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000054&tvd=100100163598063&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598063",
+    "name": "Омская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000055&tvd=100100163598064&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598064",
+    "name": "Оренбургская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000056&tvd=100100163598065&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598065",
+    "name": "Орловская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000057&tvd=100100163598066&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598066",
+    "name": "Пензенская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000058&tvd=100100163598067&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598067",
+    "name": "Псковская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000059&tvd=100100163598068&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598068",
+    "name": "Ростовская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000060&tvd=100100163598069&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598069",
+    "name": "Рязанская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000061&tvd=100100163598070&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598070",
+    "name": "Самарская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000062&tvd=100100163598071&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598071",
+    "name": "Саратовская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000063&tvd=100100163598072&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598072",
+    "name": "Сахалинская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000064&tvd=100100163598073&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598073",
+    "name": "Свердловская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000065&tvd=100100163598074&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598074",
+    "name": "Смоленская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000066&tvd=100100163598075&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598075",
+    "name": "Тамбовская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000067&tvd=100100163598076&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598076",
+    "name": "Тверская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000068&tvd=100100163598077&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598077",
+    "name": "Томская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000069&tvd=100100163598078&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598078",
+    "name": "Тульская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000070&tvd=100100163598079&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598079",
+    "name": "Тюменская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000071&tvd=100100163598080&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598080",
+    "name": "Ульяновская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000072&tvd=100100163598081&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598081",
+    "name": "Челябинская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000073&tvd=100100163598082&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598082",
+    "name": "Ярославская область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000074&tvd=100100163598083&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598083",
+    "name": "город Москва"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000075&tvd=100100163598084&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598084",
+    "name": "город Санкт-Петербург"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000085&tvd=100100163598094&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598094",
+    "name": "город Севастополь"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000076&tvd=100100163598085&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598085",
+    "name": "Еврейская автономная область"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000077&tvd=100100163598086&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598086",
+    "name": "Ненецкий автономный округ"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000078&tvd=100100163598087&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598087",
+    "name": "Ханты-Мансийский автономный округ - Югра"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000079&tvd=100100163598088&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598088",
+    "name": "Чукотский автономный округ"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000080&tvd=100100163598089&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100163598089",
+    "name": "Ямало-Ненецкий автономный округ"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000086&tvd=100100164050019&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100164050019",
+    "name": "98 Город Байконур (Республика Казахстан)"
+  },
+  {
+    "href": "http://www.vybory.izbirkom.ru/region/izbirkom?action=show&global=true&root=1000087&tvd=100100164050020&vrn=100100163596966&prver=0&pronetvd=null&region=0&sub_region=0&type=0&vibid=100100164050020",
+    "name": "99 Территория за пределами РФ"
+  }
+]
